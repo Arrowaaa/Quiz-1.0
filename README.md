@@ -1,7 +1,7 @@
 # QUIZ
 > *Projeto feito para testa o conhecimento e apresenta sobre como foi desenvolvido.*:shipit:
 
-> ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+> ![th](https://github.com/Arrowaaa/Quiz-1.0/assets/141832297/594928e1-f6e8-4bde-9791-4a561e3e4c46)
 
 
 
@@ -12,7 +12,7 @@
 - [x] **Criar um Quiz**
   - [x] *Retorna as perguntas e alternativas*
    - [x] *Adicionado uma imagem de fundo*
-   - [x] *Exibir um forme para retonra pontuação final*
+   - [x] *Exibir um form para retorna pontuação feita no final do Quiz*
     
 - [ ] Replicar forma para cada pergunta no windows form
 
